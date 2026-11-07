@@ -1,0 +1,24 @@
+:root {
+  --bg: #080809;
+  --line-hi: oklch(0.75 0 0);
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #eaeaea;
+    --line-hi: oklch(0.25 0 0);
+  }
+}
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  background: var(--bg);
+}
+#field {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
