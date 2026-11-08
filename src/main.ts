@@ -1,8 +1,8 @@
 /*!
- * @license © 2026 Apostolos Christodoulou · https://tol.is · All rights reserved.
+ * @license MIT © 2026 Apostolos Christodoulou · https://tol.is
  */
 
-// ANASA. A drifting dot field whose radius and alpha track a scalar wave; the
+// dot-field. A drifting dot field whose radius and alpha track a scalar wave; the
 // wave's wavelength breathes so the pattern never settles, and a diagonal
 // front crosses on a slow cycle, swelling the dots it passes. The pointer is a
 // wave source. Theme follows prefers-color-scheme.

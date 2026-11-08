@@ -1,4 +1,4 @@
-# ANASA
+# dot-field
 
 The ambient dot field from the tol.is index, on its own.
 
@@ -11,4 +11,8 @@ npm install
 npm run dev
 ```
 
-© 2026 Apostolos Christodoulou · https://tol.is · All rights reserved.
+Live: https://dot-field-tolis.vercel.app
+
+## License
+
+[MIT](LICENSE) © 2026 Apostolos Christodoulou · https://tol.is
